@@ -1,4 +1,4 @@
-# sql
+# SQL practice
 Работа с базой данных по результатам "Формула-1"
 Ссылка на данные: https://www.kaggle.com/datasets/davidcochran/formula-1-race-data-sqlite
 
