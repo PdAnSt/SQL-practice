@@ -1,5 +1,6 @@
 # SQL practice
 Работа с базой данных по результатам "Формула-1"
+
 Ссылка на данные: https://www.kaggle.com/datasets/davidcochran/formula-1-race-data-sqlite
 
 Сначала данные были переведены из формата .sqlite в .csv с помощью DB Browser, затем добавлены на сервер MSSQL. 
